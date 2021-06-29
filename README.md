@@ -1,7 +1,7 @@
 # reading_notes
 # growth-mindset
 ## way to the moon 
-the **growth mindset** is a way of thinking and living or more likely to be an atitude with the whole life 
+the **growth mindset** is a way of thinking and living or more likely to be an attitude with the whole life 
 **growth mindset** and openmind doesn't mean to be without character or letting anything affects you but about letting your self to evolve and stay updated 
 on the opposite side we will find the **Fixed mindset** this mindset see that success are only for those who have shiny and already known talents or only super highly intellegent people, thats restrict people from trying learning takeing risks and discover new things and discovieres and will always supprt the most tradditional states 
 ## Perseverance, gumption traps, and maintaining a growth mindset
