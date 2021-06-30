@@ -12,6 +12,7 @@ on the opposite side we will find the **Fixed mindset** this mindset see that su
 5.  Success of others: last but not least growth mindset will see others success inspiring but fixed mindset will consider it threatining. 
 ### my opinion 
 So in my opinion *if talent could make you a star a growth mindset will lead you to the moon*
+![way to the moon](https://cdna.artstation.com/p/assets/images/images/012/092/126/large/gene-raz-von-edler-rox-to-the-moon-by-ellysiumn-c-1920.jpg?1532996749)
 ### ways to keep growth mindset
 1. listien to new opinions 
 2. always try new things
