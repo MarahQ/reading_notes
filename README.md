@@ -1,6 +1,3 @@
-# Marah Karahwaez
-hello i am marah i am a programmmer to be 
-
 
 First Header | Second Header
 ------------ | -------------
