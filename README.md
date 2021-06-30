@@ -1,7 +1,4 @@
-# Marah Karahwaez
-hello i am marah i am a programmmer to be 
-
-
+hello i am Marah Karahwaez 
 First Header | Second Header
 ------------ | -------------
 growth mindset | [growth mindset](https://marahq.github.io/reading_notes/growth)
