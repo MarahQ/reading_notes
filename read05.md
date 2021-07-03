@@ -4,9 +4,7 @@ Loops offer a quick and easy way to do something repeatedly.
 The statement executes. To execute multiple statements, use a block statement ({ ... }) to group those statements.
 do...while statement
 The do...while statement repeats until a specified condition evaluates to false.
-
 A do...while statement looks as follows:
-
 do
   statement
 while (condition);
@@ -62,9 +60,7 @@ while (true) {
 Copy to Clipboard
 labeled statement
 A label provides a statement with an identifier that lets you refer to it elsewhere in your program. For example, you can use a label to identify a loop, and then use the break or continue statements to indicate whether a program should interrupt the loop or continue its execution.
-
 The syntax of the labeled statement looks like the following:
-
 label :
    statement
 Copy to Clipboard
