@@ -8,5 +8,5 @@ subject 2 | [about Git](https://marahq.github.io/reading_notes/aboutGit)
 subject 3 |[seeing remoot](https://marahq.github.io/reading_notes/seeingremoot)
 subject 4 |[wireframing](https://marahq.github.io/reading_notes/read03)
 subject 5 |[Java script](https://marahq.github.io/reading_notes/read04)
-subject 6 | 
-subject 7 |
+subject 6 | [oprators and loops]()
+subject 7 |[about CSS]
