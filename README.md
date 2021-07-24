@@ -1,16 +1,32 @@
-Hello i am Marah Karahwaez i am a dietitian and a digital marketer  also yet to learn websits development .one of my targets is to reach most of my possibilties 
-
-Subject | Second Header
+# Marah Reading Notes
+Hello i am Marah Karahwaez i am a dietitian and a digital marketer  also yet to learn websits development .one of my targets is to reach my full potentials  
+## Code 102 Reading Notes
+Subject-ID | Title
 ------------ | -------------
-subject 1 | [growth mindset](https://marahq.github.io/reading_notes/growth)
-subject 2 | [about Git](https://marahq.github.io/reading_notes/aboutGit)
-subject 3 |[seeing remoot](https://marahq.github.io/reading_notes/seeingremoot)
-subject 4 |[wireframing](https://marahq.github.io/reading_notes/read03)
-subject 5 |[Java script](https://marahq.github.io/reading_notes/read04)
-subject 6 | [oprators and loops](https://marahq.github.io/reading_notes/read05)
-<<<<<<< HEAD
-subject 7 |[about CSS](https://marahq.github.io/reading_notes/read06)
-subject 8 |[Jss function](https://marahq.github.io/reading_notes/)
-=======
-subject 7 |[about CSS](https://marahq.github.io/reading_notes/read06)
->>>>>>> c93a4fed6d021ba19e2325e3c7dc95aff0f0250b
+Subject 1-102 | [growth mindset](https://marahq.github.io/reading_notes/growth)
+Subject 2-102 | [about Git](https://marahq.github.io/reading_notes/aboutGit)
+Subject 3-102 |[seeing remoot](https://marahq.github.io/reading_notes/seeingremoot)
+Subject 4-102 |[wireframing](https://marahq.github.io/reading_notes/read03)
+Subject 5-102 |[Java script](https://marahq.github.io/reading_notes/read04)
+Subject 6-102 | [oprators and loops](https://marahq.github.io/reading_notes/read05)
+Subject 7-102 |[about CSS](https://marahq.github.io/reading_notes/read06)
+Subject 8-102|[Jss function](https://marahq.github.io/reading_notes/read07)
+
+## Code 201 Reading Notes
+Suject-ID | Title
+---------- | ----------
+Subject-1-201 |
+Subject-2-201 |
+Subject-3-201 |
+Subject-4-201 |
+Subject-5-201 |
+Subject-6-201 |
+Subject-7-201 |
+Subject-8-201 |
+Subject-9-201 |
+Subject-10-201 |
+Subject-11-201 |
+Subject-12-201 |
+Subject-13-201 |
+Subject-14-201 |
+Subject-15-201 |
