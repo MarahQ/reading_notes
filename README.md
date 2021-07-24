@@ -1,8 +1,9 @@
 # Marah Reading Notes
 Hello i am Marah Karahwaez i am a dietitian and a digital marketer  also yet to learn websits development .one of my targets is to reach my full potentials  
 ## Code 102 Reading Notes
-Subject-ID | Title
------------- | -------------
+
+Subject-ID  |  Title
+------------  |  -------------
 Subject 1-102 | [Growth mindset](https://marahq.github.io/reading_notes/growth)
 Subject 2-102 | [About Git](https://marahq.github.io/reading_notes/aboutGit)
 Subject 3-102 |[Seeing remoot](https://marahq.github.io/reading_notes/seeingremoot)
@@ -13,8 +14,8 @@ Subject 7-102 |[About CSS](https://marahq.github.io/reading_notes/read06)
 Subject 8-102|[Jss function](https://marahq.github.io/reading_notes/read07)
 
 ## Code 201 Reading Notes
-Suject-ID | Title
----------- | ----------
+Suject-ID  |  Title
+----------  |  ----------
 Subject-1-201 |
 Subject-2-201 |
 Subject-3-201 |
