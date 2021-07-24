@@ -3,13 +3,13 @@ Hello i am Marah Karahwaez i am a dietitian and a digital marketer  also yet to 
 ## Code 102 Reading Notes
 Subject-ID | Title
 ------------ | -------------
-Subject 1-102 | [growth mindset](https://marahq.github.io/reading_notes/growth)
-Subject 2-102 | [about Git](https://marahq.github.io/reading_notes/aboutGit)
-Subject 3-102 |[seeing remoot](https://marahq.github.io/reading_notes/seeingremoot)
-Subject 4-102 |[wireframing](https://marahq.github.io/reading_notes/read03)
+Subject 1-102 | [Growth mindset](https://marahq.github.io/reading_notes/growth)
+Subject 2-102 | [About Git](https://marahq.github.io/reading_notes/aboutGit)
+Subject 3-102 |[Seeing remoot](https://marahq.github.io/reading_notes/seeingremoot)
+Subject 4-102 |[Wireframing](https://marahq.github.io/reading_notes/read03)
 Subject 5-102 |[Java script](https://marahq.github.io/reading_notes/read04)
-Subject 6-102 | [oprators and loops](https://marahq.github.io/reading_notes/read05)
-Subject 7-102 |[about CSS](https://marahq.github.io/reading_notes/read06)
+Subject 6-102 | [Oprators and loops](https://marahq.github.io/reading_notes/read05)
+Subject 7-102 |[About CSS](https://marahq.github.io/reading_notes/read06)
 Subject 8-102|[Jss function](https://marahq.github.io/reading_notes/read07)
 
 ## Code 201 Reading Notes
