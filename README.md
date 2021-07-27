@@ -14,13 +14,14 @@ Subject 7-102 |[About CSS](https://marahq.github.io/reading_notes/read06)
 Subject 8-102|[Jss function](https://marahq.github.io/reading_notes/read07)
 
 ## Code 201 Reading Notes
+
 Suject-ID  |  Title
 ----------  |  ----------
-Subject-1-201 |
-Subject-2-201 |
-Subject-3-201 |
-Subject-4-201 |
-Subject-5-201 |
+Subject-1-201 | 123
+Subject-2-201 | 123
+Subject-3-201 | 123
+Subject-4-201 | 123
+Subject-5-201 | 123
 Subject-6-201 |
 Subject-7-201 |
 Subject-8-201 |
