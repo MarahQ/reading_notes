@@ -26,7 +26,7 @@ Subject-4-201 |[read004](https://marahq.github.io/reading_notes/read004)
 Subject-5-201 |[read005](https://marahq.github.io/reading_notes/read005)
 Subject-6-201 |[read006](https://marahq.github.io/reading_notes/read006)
 Subject-7-201 |[read007](https://marahq.github.io/reading_notes/read007)
-Subject-8-201 |
+Subject-8-201 |[read008](https://marahq.github.io/reading_notes/read008)
 Subject-9-201 |
 Subject-10-201 |
 Subject-11-201 |
