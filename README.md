@@ -30,7 +30,7 @@ Subject-8-201 |[read008](https://marahq.github.io/reading_notes/read008)
 Subject-9-201 |[read009](https://marahq.github.io/reading_notes/read009)
 Subject-10-201 |[read0010](https://marahq.github.io/reading_notes/read0010)
 Subject-11-201 |[read0011](https://marahq.github.io/reading_notes/read0011)
-Subject-12-201 |
-Subject-13-201 |
+Subject-12-201 |[read0012](https://marahq.github.io/reading_notes/read0012)
+Subject-13-201 |[read0013](https://marahq.github.io/reading_notes/read0013)
 Subject-14-201 |
 Subject-15-201 |
